@@ -10,4 +10,5 @@ public class SimpleRestController {
 	public String getData() {
 		return "메롱";
 	}
+	
 }
